@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ---
 
 ## 🤝 Acknowledgements
-```
+
 This research was developed at **Vellore Institute of Technology, Chennai**,  
 under the guidance of **Brindha Subburaj** and team.
-```
+
