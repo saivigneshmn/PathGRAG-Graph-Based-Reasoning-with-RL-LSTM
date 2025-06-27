@@ -66,3 +66,33 @@ cd pathgrag
 
 # 2. (Optional) Install requirements
 pip install -r requirements.txt
+> ✅ **Colab Users**:  
+> Run the `PathGRAG_Final.ipynb` notebook from the `notebooks/` directory.  
+> Upload your PDF or text data directly into the notebook and execute the cells step-by-step.
+```
+
+## 📊 Results
+
+| Model        | BLEU | BERT | ROUGE | Cosine Similarity | RAGAS |
+|--------------|------|------|--------|-------------------|--------|
+| RAG Baseline | 0.16 | 0.59 | 0.35   | 0.81              | 0.67   |
+| GraphRAG     | 0.47 | 0.61 | 0.45   | 0.85              | 0.79   |
+| **PathGRAG** | **0.49** | **0.63** | **0.47** | **0.91** | **1.0** |
+
+---
+
+## 📚 Citations & References
+
+- [1] Du et al. (2024) – *Graph Neural Network-Based Entity Extraction and Relationship Reasoning*. [arXiv:2411.15195](https://arxiv.org/abs/2411.15195)  
+- [2] Saleh et al. (2024) – *SG-RAG: Multi-Hop Question Answering with Large Language Models Through Knowledge Graphs*. [ACL Anthology](https://aclanthology.org/2024.icnlsp-1.45.pdf)  
+- [3] Zhang et al. (2023) – *GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning*. [arXiv:2405.20139](https://arxiv.org/abs/2405.20139)  
+
+📎 **Full reference list** available in the [final_paper.pdf](./final_paper.pdf)
+
+---
+
+## 🤝 Acknowledgements
+```
+This research was developed at **Vellore Institute of Technology, Chennai**,  
+under the guidance of **Brindha Subburaj** and team.
+```
