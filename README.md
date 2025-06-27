@@ -57,20 +57,6 @@ Built and evaluated using **live multilingual news data** with **LLaMA-3**, sema
 
 ---
 
-## 🛠️ Setup Instructions
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/saivigneshmn/pathgrag.git
-cd pathgrag
-
-# 2. (Optional) Install requirements
-pip install -r requirements.txt
-> ✅ **Colab Users**:  
-> Run the `PathGRAG_Final.ipynb` notebook from the `notebooks/` directory.  
-> Upload your PDF or text data directly into the notebook and execute the cells step-by-step.
-```
-
 ## 📊 Results
 
 | Model        | BLEU | BERT | ROUGE | Cosine Similarity | RAGAS |
