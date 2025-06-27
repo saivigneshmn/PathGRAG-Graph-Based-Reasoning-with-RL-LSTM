@@ -81,15 +81,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📚 Citations & References
-
-- [1] Du et al. (2024) – *Graph Neural Network-Based Entity Extraction and Relationship Reasoning*. [arXiv:2411.15195](https://arxiv.org/abs/2411.15195)  
-- [2] Saleh et al. (2024) – *SG-RAG: Multi-Hop Question Answering with Large Language Models Through Knowledge Graphs*. [ACL Anthology](https://aclanthology.org/2024.icnlsp-1.45.pdf)  
-- [3] Zhang et al. (2023) – *GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning*. [arXiv:2405.20139](https://arxiv.org/abs/2405.20139)  
-
-📎 **Full reference list** available in the [final_paper.pdf](./final_paper.pdf)
-
----
 
 ## 🤝 Acknowledgements
 
