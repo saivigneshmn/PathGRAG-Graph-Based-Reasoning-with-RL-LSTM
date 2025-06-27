@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+networkx
+pyvis
+tqdm
+regex
+sentence-transformers
+transformers
+langchain
+openai
+faiss-cpu
+newsapi-python
+googletrans==4.0.0rc1
+langdetect
+torch
