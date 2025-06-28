@@ -48,6 +48,10 @@ Built and evaluated using **live multilingual news data** with **LLaMA-3**, sema
   <img src="assets/outcome.png" width="700"/>
 </p>
 
+<p align="center">
+  <img src="assets/output.png" width="700"/>
+</p>
+
 ---
 
 ## 🧰 Tech Stack
