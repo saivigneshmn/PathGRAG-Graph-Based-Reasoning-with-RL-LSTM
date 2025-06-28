@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/platform-Google%20Colab-yellow)
+![IEEE Conference](https://img.shields.io/badge/Presented%20at-ICCCNT%202025-blueviolet?logo=ieee&logoColor=white)
+
 
 ---
 
