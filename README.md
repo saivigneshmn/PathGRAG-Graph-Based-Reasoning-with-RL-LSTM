@@ -16,9 +16,9 @@
 - **Multi-hop Reasoning and Hallucination Filtering**
 
 Built and evaluated using **live multilingual news data** with **LLaMA-3**, semantic search, and `NetworkX`, the model outperforms baseline RAG and GraphRAG architectures.
-
-While initially tested using real-time news data via APIs for multilingual benchmarking, the **PathGRAG** framework is designed to extend into high-stakes domains such as **medical and clinical data analysis**. Its hallucination detection, multi-hop reasoning, and knowledge graph validation make it ideal for answering patient queries accurately by referencing verified health records and structured clinical knowledge — minimizing the risk of misinformation.
-
+```
+While initially tested using real-time news data via APIs for multilingual benchmarking, the PathGRAG framework is designed to extend into high-stakes domains such as medical and clinical data analysis. Its hallucination detection, multi-hop reasoning, and knowledge graph validation make it ideal for answering patient queries accurately by referencing verified health records and structured clinical knowledge — minimizing the risk of misinformation.
+```
 ---
 
 ## 📌 Key Features
