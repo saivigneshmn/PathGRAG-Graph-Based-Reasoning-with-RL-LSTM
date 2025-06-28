@@ -1,6 +1,5 @@
 # 📊 PathGRAG: Hybrid Framework for Multi-Hop Reasoning using Graphs and Reinforcement Learning
 
-![GitHub repo size](https://img.shields.io/github/repo-size/saivigneshmn/pathgrag?color=blue)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/platform-Google%20Colab-yellow)
