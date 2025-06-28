@@ -33,7 +33,7 @@ Built and evaluated using **live multilingual news data** with **LLaMA-3**, sema
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="700"/>
+  <img src="assets/Methodology.png" width="700"/>
 </p>
 
 ---
@@ -41,7 +41,11 @@ Built and evaluated using **live multilingual news data** with **LLaMA-3**, sema
 ## 🧪 Working Demo
 
 <p align="center">
-  <img src="assets/demo.gif" width="700"/>
+  <img src="assets/graph.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/outcome.png" width="700"/>
 </p>
 
 ---
